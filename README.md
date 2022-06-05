@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FEE-P
-- 👀 I’m interested in frontend engineering
-- 🌱 I’m currently learning webpack5 and react18
+- 👋 Hi, I’m @FrontendJirachi
+- 👀 I’m interested in frontend engineering.
+- 🌱 I’m currently learning Next.js and D3.js
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me jaylonedd@gmail.com
 
